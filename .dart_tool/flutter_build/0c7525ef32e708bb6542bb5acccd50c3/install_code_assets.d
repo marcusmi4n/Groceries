@@ -1,0 +1,1 @@
+ /home/grimian/Documents/WIN\ flutter\ apps/GiTHUB/Groceries/.dart_tool/flutter_build/0c7525ef32e708bb6542bb5acccd50c3/native_assets.json: 
