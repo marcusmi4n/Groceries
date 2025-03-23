@@ -1,56 +1,56 @@
 # ninja log v5
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/libflutter_linux_gtk.so	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/build/linux/x64/debug/flutter/_phony_	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_engine.h	5b5bd2b8f073dce1
-1	11608	0	flutter/_phony_	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	5b5bd2b8f073dce1
-12431	12536	0	CMakeFiles/install.util	dc5135da3d07014f
-12290	12431	1742763426607970450	intermediates_do_not_run/flutter_upgrde_app	4222153b0777d104
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	5b5bd2b8f073dce1
+10	3538	0	flutter/_phony_	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_engine.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/build/linux/x64/debug/flutter/_phony_	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/libflutter_linux_gtk.so	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	5b5bd2b8f073dce1
+3538	4150	1742765898074961023	CMakeFiles/flutter_upgrde_app.dir/my_application.cc.o	8bd2cbae683f7f32
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_view.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	5b5bd2b8f073dce1
+10	3538	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_value.h	5b5bd2b8f073dce1
+3538	4107	1742765898031961023	CMakeFiles/flutter_upgrde_app.dir/flutter/generated_plugin_registrant.cc.o	5e524118c21499a2
 11608	12217	1742763426391970451	CMakeFiles/flutter_upgrde_app.dir/main.cc.o	5a01b4c5f7b7919b
-11609	12245	1742763426418970451	CMakeFiles/flutter_upgrde_app.dir/flutter/generated_plugin_registrant.cc.o	5e524118c21499a2
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_value.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_view.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	5b5bd2b8f073dce1
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	5b5bd2b8f073dce1
-11609	12290	1742763426463970451	CMakeFiles/flutter_upgrde_app.dir/my_application.cc.o	8bd2cbae683f7f32
-1	11608	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/libflutter_linux_gtk.so	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_engine.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_value.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_view.h	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	5b5bd2b8f073dce1
-15	3706	0	flutter/_phony_	5b5bd2b8f073dce1
-15	3706	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/build/linux/x64/debug/flutter/_phony_	5b5bd2b8f073dce1
-3707	4464	1742765544640962371	CMakeFiles/flutter_upgrde_app.dir/flutter/generated_plugin_registrant.cc.o	5e524118c21499a2
-3706	4500	1742765544676962371	CMakeFiles/flutter_upgrde_app.dir/my_application.cc.o	8bd2cbae683f7f32
-4500	4650	1742765544829962370	intermediates_do_not_run/flutter_upgrde_app	5cfa01ee07f9215d
-4650	4751	0	CMakeFiles/install.util	dc5135da3d07014f
+4151	4288	1742765898214961022	intermediates_do_not_run/flutter_upgrde_app	5cfa01ee07f9215d
+4288	4417	0	CMakeFiles/install.util	dc5135da3d07014f
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/libflutter_linux_gtk.so	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_engine.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_value.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/fl_view.h	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	5b5bd2b8f073dce1
+5	3347	0	flutter/_phony_	5b5bd2b8f073dce1
+5	3347	0	/home/grimian/Documents/WIN flutter apps/GiTHUB/Groceries/build/linux/x64/debug/flutter/_phony_	5b5bd2b8f073dce1
+3348	3918	1742765953218960812	CMakeFiles/flutter_upgrde_app.dir/flutter/generated_plugin_registrant.cc.o	5e524118c21499a2
+3347	3970	1742765953269960812	CMakeFiles/flutter_upgrde_app.dir/my_application.cc.o	8bd2cbae683f7f32
+3970	4101	1742765953403960811	intermediates_do_not_run/flutter_upgrde_app	5cfa01ee07f9215d
+4101	4244	0	CMakeFiles/install.util	dc5135da3d07014f
